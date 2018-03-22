@@ -1,0 +1,23 @@
+#python specific 
+*.pyc
+*.o
+*.class
+*.h
+*.coverage
+
+env
+venv
+htmlcov
+
+__pycache__
+
+
+##generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.log
+*.tmp
+ 
